@@ -67,6 +67,17 @@ docker-compose up --build
 - <img width="1514" height="873" alt="Снимок экрана 2026-04-24 232556" src="https://github.com/user-attachments/assets/2d73814d-d74c-4d12-948b-9e6832d715ff" />
 <img width="1482" height="1025" alt="Снимок экрана 2026-04-24 232610" src="https://github.com/user-attachments/assets/ac8f46c0-a4a3-4db0-9cd1-170dccc6ab10" />
 <img width="1542" height="1098" alt="Снимок экрана 2026-04-24 232618" src="https://github.com/user-attachments/assets/882882d7-15bf-4258-a097-551421341eca" />
+<img width="893" height="588" alt="image" src="https://github.com/user-attachments/assets/2dd6ce16-3063-49d3-8c9b-d6bff4c8d2a1" />
+<img width="1906" height="540" alt="image" src="https://github.com/user-attachments/assets/5f5db48b-5738-40ae-be89-01ebdcca420c" />
+<img width="1914" height="1017" alt="image" src="https://github.com/user-attachments/assets/fdb544fc-3e16-470d-9dff-8d9be00bb9d7" />
+<img width="1904" height="956" alt="image" src="https://github.com/user-attachments/assets/8097d9ea-3bb7-46df-adc9-452e41490060" />
+<img width="1895" height="926" alt="image" src="https://github.com/user-attachments/assets/22f7db22-2f83-4ac5-bd53-f87a5d1e2f51" />
+<img width="1904" height="991" alt="image" src="https://github.com/user-attachments/assets/1cbaf734-caac-4b2b-8048-97d8d30db253" />
+
+
+
+
+
 
 
 
