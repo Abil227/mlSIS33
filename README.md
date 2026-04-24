@@ -63,3 +63,12 @@ docker-compose up --build
 - **Logged params:** `n_estimators`, `max_depth`, `random_state`
 - **Logged metrics:** `accuracy`, `f1_score`
 - **Model Registry name:** `IrisClassifier`
+
+- <img width="1514" height="873" alt="Снимок экрана 2026-04-24 232556" src="https://github.com/user-attachments/assets/2d73814d-d74c-4d12-948b-9e6832d715ff" />
+<img width="1482" height="1025" alt="Снимок экрана 2026-04-24 232610" src="https://github.com/user-attachments/assets/ac8f46c0-a4a3-4db0-9cd1-170dccc6ab10" />
+<img width="1542" height="1098" alt="Снимок экрана 2026-04-24 232618" src="https://github.com/user-attachments/assets/882882d7-15bf-4258-a097-551421341eca" />
+
+
+
+
+
